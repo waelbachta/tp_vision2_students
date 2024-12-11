@@ -73,7 +73,7 @@ Et :
 $$
 \begin{equation}
 \begin{pmatrix} 
-\widetilde{ v }_ x \\ 
+1 \\ 
 0
 \end{pmatrix}
 \end{equation}
