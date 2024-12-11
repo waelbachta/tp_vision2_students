@@ -74,9 +74,7 @@ $$
 \begin{equation}
 \begin{pmatrix} 
 \widetilde{ v }_ x \\ 
-\widetilde{ v }_ y \\ 
-\widetilde{ \omega }_ y \\
-\widetilde{ \omega }_ z
+0
 \end{pmatrix}
 \end{equation}
 $$
