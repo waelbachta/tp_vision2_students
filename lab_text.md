@@ -60,7 +60,7 @@ $$
 \widetilde{\omega}_z 
 \end{pmatrix}= 
 \begin{pmatrix}
-\gamma \\
+\gamma_{T_z} \\
 \gamma
 \end{pmatrix}
 \end{equation}
