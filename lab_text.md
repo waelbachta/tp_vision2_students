@@ -73,10 +73,10 @@ Et :
 $$
 \begin{equation}
 \begin{pmatrix} 
-\widetilde{v}_ x \\ 
-\widetilde{v}_ y \\ 
-\widetilde{\omega}_ y\\
-\widetilde{\omega}_ z
+\widetilde{ v }_ x \\ 
+\widetilde{ v }_ y \\ 
+\widetilde{ \omega }_ y\\
+\widetilde{ \omega }_ z
 \end{pmatrix}
 \end{equation}
 $$
