@@ -56,10 +56,8 @@ $$
 \widetilde{\omega}_z 
 \end{pmatrix} =
 $$
-$$
-\begin{pmatrix} \gamma_{T_z} &  0 \\ 0 &  \gamma_{\omega_z}\end{pmatrix}
-\begin{pmatrix} \sigma^* - \sigma \\ \theta^* - \theta\end{pmatrix}
-$$
+
+
 
 
 Et :
