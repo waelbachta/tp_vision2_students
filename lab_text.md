@@ -52,7 +52,7 @@ $$
 \end{equation}
 $$
 
-
+avec :
 
 $$
 \begin{equation}
