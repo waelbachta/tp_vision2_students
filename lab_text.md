@@ -60,9 +60,8 @@ $$
 \widetilde{\omega}_z 
 \end{pmatrix}= 
 \begin{pmatrix}
-\gamma _{T _{z}} \\
-\gamma
-\end{pmatrix}
+\gamma _{T _{z}} & 0 \\
+0 & \gamma _{\omega _{z}}\end{pmatrix}
 \end{equation}
 $$
 
@@ -70,7 +69,15 @@ $$
 
 Et :
 $$
-\begin{pmatrix} \widetilde{v}_x \\ \widetilde{v}_y \\ \widetilde{\omega}_x \\\widetilde{\omega}_y\end{pmatrix}=\gamma L_{s_{xy}}^+((s^*-s)-L_{s_z}\begin{pmatrix} \widetilde{v}_z \\  \widetilde{\omega}_z \end{pmatrix} )
+\begin{equation}
+\begin{pmatrix} 
+\widetilde{v} _x \\ 
+\widetilde{v} _y \\ 
+\widetilde{\omega} _x \\
+\widetilde{\omega} _y
+\end{pmatrix}
+=\gamma L_ {s_ {xy}}^+((s^*-s)-L _{s_z}\begin{pmatrix} \widetilde{v} _z \\  \widetilde{\omega} _z \end{pmatrix} )
+\end{equation}
 $$
 
 où: 
