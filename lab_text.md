@@ -58,6 +58,10 @@ $$
 \begin{equation}
 \begin{pmatrix} \widetilde{v}_z \\  
 \widetilde{\omega}_z 
+\end{pmatrix}=
+\begin{pmatrix}
+1 & 0 \\
+0 & 1
 \end{pmatrix}
 \end{equation}
 $$
