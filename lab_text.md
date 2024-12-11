@@ -43,16 +43,16 @@ Pour corriger le comportement observé plus haut, une loi de commande partitionn
 
 Le vecteur de commande  $\begin{pmatrix}{}^c\widetilde{V}^C_{c/o} {}^c\widetilde{\Omega}_{c/o}  \end{pmatrix}'$ s’écrit de la façon suivante : 
 
-$ $
+$$
 \begin{pmatrix} \widetilde{v}_z \\  \widetilde{\omega}_z \end{pmatrix} =
 \begin{pmatrix} \gamma_{T_z} &  0 \\ 0 &  \gamma_{\omega_z}\end{pmatrix}
 \begin{pmatrix} \sigma^* - \sigma \\ \theta^* - \theta\end{pmatrix}
-$ $
+$$
 
 Et :
-$ $
+$$
 \begin{pmatrix} \widetilde{v}_x \\ \widetilde{v}_y \\ \widetilde{\omega}_x \\\widetilde{\omega}_y\end{pmatrix}=\gamma L_{s_{xy}}^+((s^*-s)-L_{s_z}\begin{pmatrix} \widetilde{v}_z \\  \widetilde{\omega}_z \end{pmatrix} )
-$ $
+$$
 
 où: 
 
