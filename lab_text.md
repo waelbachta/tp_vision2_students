@@ -79,9 +79,12 @@ $$
 \widetilde{\omega}_ x \\
 \widetilde{\omega}_ y
 \end{pmatrix}
+\end{equation}
+$$
+
+$$
 =\gamma L_ {s_ {xy}}^+((s^*-s)-L_ {s_z}\begin{pmatrix} \widetilde{v}_ z \\  
 \widetilde{\omega}_ z \end{pmatrix} )
-\end{equation}
 $$
 
 où: 
