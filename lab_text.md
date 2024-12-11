@@ -59,11 +59,6 @@ $$
 \begin{pmatrix} \widetilde{v}_z \\  
 \widetilde{\omega}_z 
 \end{pmatrix}=
-\begin{pmatrix}
-a_{T_z} & 0 \\
-0 & a_{\omega_z}
-\end{pmatrix}
-\end{equation}
 $$
 
 
