@@ -58,7 +58,7 @@ $$
 \begin{equation}
 \begin{pmatrix} \widetilde{v}_z \\  
 \widetilde{\omega}_z 
-\end{pmatrix}=
+\end{pmatrix}= \gamma
 \end{equation}
 $$
 
