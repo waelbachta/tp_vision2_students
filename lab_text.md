@@ -73,7 +73,7 @@ Et :
 $$
 \begin{equation}
 \begin{pmatrix} 
-1 \\ 
+1 \\
 0
 \end{pmatrix}
 \end{equation}
