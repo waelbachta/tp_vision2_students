@@ -42,6 +42,7 @@ Les axes du robot simulé sont asservis en vitesse. La sortie de la loi de comma
 Pour corriger le comportement observé plus haut, une loi de commande partitionnée a été proposée par Corke et al. Cette loi de commande consiste à modifier les primitives visuelles qui permettent de contrôler la translation et la rotation autour de l’axe optique. 
 
 Le vecteur de commandes’écrit de la façon suivante : 
+
 $$
 \begin{equation}
 \begin{pmatrix}
@@ -53,7 +54,7 @@ $$
 
 
 
-$ $
+$$
 \begin{equation}
 \begin{pmatrix} \widetilde{v}_z \\  
 \widetilde{\omega}_z 
@@ -62,7 +63,7 @@ $ $
 0 &  \gamma_{\omega_z}
 \end{pmatrix}
 \end{equation}
-$ $
+$$
 
 
 
