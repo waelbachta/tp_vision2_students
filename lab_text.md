@@ -41,12 +41,15 @@ Les axes du robot simulé sont asservis en vitesse. La sortie de la loi de comma
 ## Asservissement visuel 2D « partitionné »
 Pour corriger le comportement observé plus haut, une loi de commande partitionnée a été proposée par Corke et al. Cette loi de commande consiste à modifier les primitives visuelles qui permettent de contrôler la translation et la rotation autour de l’axe optique. 
 
-Le vecteur de commande  
-$$
-\begin{pmatrix}{}^c\widetilde{V}^C_{c/o} \\\ {}^c\widetilde{\Omega}_{c/o}  
+Le vecteur de commandes’écrit de la façon suivante : 
+$ $
+\begin{pmatrix}
+{}^c\widetilde{V}^C_{c/o} \\
+{}^c\widetilde{\Omega}_{c/o}  
 \end{pmatrix}'
-$$
- s’écrit de la façon suivante : 
+$ $
+
+
 
 $$
 \begin{bmatrix} \widetilde{v}_z \\  \widetilde{\omega}_z \end{bmatrix} =
