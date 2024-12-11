@@ -51,7 +51,7 @@ $$
 
 
 
-$$
+$ $
 \begin{equation}
 \begin{pmatrix} \widetilde{v}_z \\  
 \widetilde{\omega}_z 
@@ -60,7 +60,7 @@ $$
 0 &  \gamma_{\omega_z}
 \end{pmatrix}
 \end{equation}
-$$
+$ $
 
 
 
