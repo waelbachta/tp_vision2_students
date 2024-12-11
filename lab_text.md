@@ -60,8 +60,8 @@ $$
 \widetilde{\omega}_z 
 \end{pmatrix}=
 \begin{pmatrix}
-\alpha_{T_z} & 0 \\
-0 & \alpha_{\omega_z}
+a_{T_z} & 0 \\
+0 & a_{\omega_z}
 \end{pmatrix}
 \end{equation}
 $$
