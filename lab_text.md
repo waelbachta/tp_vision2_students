@@ -46,7 +46,7 @@ $$
 \begin{pmatrix}
 {}^c\widetilde{V}^C_{c/o} \\
 {}^c\widetilde{\Omega}_{c/o}  
-\end{pmatrix}'
+\end{pmatrix}
 $$
 
 
