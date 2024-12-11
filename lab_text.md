@@ -52,7 +52,9 @@ $$
 
 
 $$
-\begin{bmatrix} \widetilde{v}_z \\  \widetilde{\omega}_z \end{bmatrix} =
+\begin{pmatrix} \widetilde{v}_z \\  
+\widetilde{\omega}_z 
+\end{pmatrix} =
 $$
 
 
