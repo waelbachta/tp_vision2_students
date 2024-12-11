@@ -69,15 +69,14 @@ $$
 $$
 
 
-
 Et :
 $$
 \begin{equation}
 \begin{pmatrix} 
-\widetilde{v}_x \\ 
-\widetilde{v}_y \\ 
-\widetilde{\omega}_x \\
-\widetilde{\omega}_y
+\widetilde{v_y} \\ 
+\widetilde{v_x} \\ 
+\widetilde{\omega_x}\\
+\widetilde{\omega_y}
 \end{pmatrix}
 \end{equation}
 $$
