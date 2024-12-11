@@ -62,7 +62,9 @@ $$
 \begin{pmatrix}
 \gamma _{T _{z}} & 0 \\
 0 & \gamma _{\omega _{z}}\end{pmatrix}
-\begin{pmatrix} \sigma^* - \sigma \\ \theta^* - \theta\end{pmatrix}
+\begin{pmatrix} \sigma^* - \sigma \\ 
+\theta^* - \theta
+\end{pmatrix}
 \end{equation}
 $$
 
