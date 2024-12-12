@@ -77,7 +77,8 @@ $$
 \widetilde{v}_y \\
 \widetilde{\omega}_x \\
 \widetilde{v}_y \\
-\end{pmatrix}= 
+\end{pmatrix}= \gamma L_ {s_ {xy}}^+((s^*-s)-L_ {s_z}\begin{pmatrix} \widetilde{v}_ z \\  
+\widetilde{\omega}_ z \end{pmatrix} )
 \end{equation}
 $$
 ```
