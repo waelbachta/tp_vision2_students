@@ -72,8 +72,8 @@ $$
 Et :
 $$
 \begin{equation}
-\begin{pmatrix} \widetilde{v}_z \\  
-\widetilde{\omega}_z 
+\begin{pmatrix} \widetilde{v}_ z \\  
+\widetilde{\omega}_ z 
 \end{pmatrix}= 
 \end{equation}
 $$
