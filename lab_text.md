@@ -73,8 +73,8 @@ Et :
 $$
 \begin{equation}
 \begin{pmatrix} 
-1 \\  
-0
+\widetilde{v}_x \\  
+\widetilde{v}_y
 \end{pmatrix}= 
 \end{equation}
 $$
