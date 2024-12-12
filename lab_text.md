@@ -74,7 +74,9 @@ $$
 \begin{equation}
 \begin{pmatrix} 
 \widetilde{v}_x \\  
-\widetilde{v}_y
+\widetilde{v}_y \\
+\widetilde{\omega}_x \\
+\widetilde{v}_y \\
 \end{pmatrix}= 
 \end{equation}
 $$
