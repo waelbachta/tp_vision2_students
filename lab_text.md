@@ -72,10 +72,10 @@ $$
 Et :
 $$
 \begin{equation}
-\begin{pmatrix} 
-1 \\
-0
-\end{pmatrix}
+\begin{equation}
+\begin{pmatrix} \widetilde{v}_z \\  
+\widetilde{\omega}_z 
+\end{pmatrix}= 
 \end{equation}
 $$
 
