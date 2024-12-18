@@ -15,7 +15,7 @@ Les axes du robot simulé sont asservis en vitesse. La sortie de la loi de comma
 
 ## Lecture de l'article
 
-1.  Lire attentivement l’article qui vous est fourni \footnote{ P.I. Corke and S.A. Hutchinson. A new partionned Approach to Image-Based Visual Servo Control. IEEE Transactions on Robotics and Automation. Vol. 17(4). Pages 507-515. 2001}. L'article est présentdans ce dépôt sous le nom article\_conundrum.
+1.  Lire attentivement l’article qui vous est fourni \footnote{ P.I. Corke and S.A. Hutchinson. A new partionned Approach to Image-Based Visual Servo Control. IEEE Transactions on Robotics and Automation. Vol. 17(4). Pages 507-515. 2001}. L'article est présent dans ce dépôt sous le nom article\_conundrum.
    
 3. Expliquer pourquoi la matrice d’interaction (équation numéro 2), bien que différente de celle que nous avons démontré pendant la séance de cours, est correcte.
 
